@@ -1,0 +1,1 @@
+<?php echo '<h2>Chi tiết sản phẩm - Đang cập nhật</h2>'; ?>

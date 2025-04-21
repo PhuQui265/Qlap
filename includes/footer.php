@@ -1,0 +1,1 @@
+<footer><hr><p>&copy; 2025 Qlap Company</p></footer></body></html>

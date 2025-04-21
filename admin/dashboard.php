@@ -1,0 +1,1 @@
+<?php session_start(); echo '<h2>Chào mừng Admin ID: ' . $_SESSION['admin'] . '</h2>'; ?>
